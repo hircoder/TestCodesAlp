@@ -22,13 +22,13 @@ I have implemented the fit and predict methods, similar to the KMeans class in s
 The fit method takes the data and the number of clusters as input and returns the model object.
 The predict method takes the data as input and returns the predicted cluster labels for the data points.
 
-I have tried to follow clean code practices as much as possible.
-I also added comments where they helped me understand the code better.
 To run this code:
 
 1.  Open the terminal and navigate to the directory containing K-means2.py file.
 2.  Run the following command: python K-means2.py <dataset_file> <n_clusters> <max_iterations>
 
+How to try the algorithms on other datasets?
+Give the path to .csv file of two dimensional points in the format mentioned above.
 
 Deliverables:
 1. K-means2.py
