@@ -1,8 +1,8 @@
 This code is a Python implementation of the K-means clustering algorithm for an interview assignment.
 I used the following resources to learn about K-means clustering algorithm:
-https://www.geeksforgeeks.org/k-means-clustering-introduction/
-https://en.wikipedia.org/wiki/K-means_clustering
-https://www.youtube.com/watch?v=4b5d3muPQmA
+1. https://www.geeksforgeeks.org/k-means-clustering-introduction/
+2. https://en.wikipedia.org/wiki/K-means_clustering
+3. https://www.youtube.com/watch?v=4b5d3muPQmA
 
 The objective of this code is to partition a set of data points into k clusters based on their similarity, where k is a given number.
 This is done to ensure that data points within each cluster are as similar as possible and as dissimilar as possible from data points in other clusters.
