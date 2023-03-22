@@ -28,3 +28,9 @@ To run this code:
 
 1.  Open the terminal and navigate to the directory containing K-means2.py file.
 2.  Run the following command: python K-means2.py <dataset_file> <n_clusters> <max_iterations>
+
+
+Deliverables:
+1. K-means2.py
+2. K-means2.ipynb
+3. K-means2.html
